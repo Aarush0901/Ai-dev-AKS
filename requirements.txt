@@ -1,0 +1,51 @@
+# ================================
+
+# Core LLM Framework
+
+# ================================
+
+langchain
+langchain-core
+langchain-community
+langgraph
+
+# ================================
+
+# Providers
+
+# ================================
+
+langchain-openai
+langchain-google-genai
+langchain-groq
+langchain-mistralai
+langchain_huggingface
+
+# ================================
+
+# Embeddings / Vector DB
+
+# ================================
+
+faiss-cpu
+tiktoken
+
+# ================================
+
+# Environment & Utilities
+
+# ================================
+
+python-dotenv
+pydantic
+requests
+
+# ================================
+
+# Optional but Recommended (API Layer)
+
+# ================================
+
+fastapi
+uvicorn
+
