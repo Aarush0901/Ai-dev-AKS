@@ -1,0 +1,17 @@
+[
+ {
+  "title": "Verify Login",
+  "steps": "Enter username, Enter password, Click Login",
+  "expected": "User logs into system"
+ },
+ {
+  "title": "Create Task Chain",
+  "steps": "Open Data Builder, Drag object, Click Save",
+  "expected": "Task chain created successfully"
+ },
+ {
+  "title": "Create Replication Flow",
+  "steps": "Open Replication Flow, Select source table, Deploy",
+  "expected": "Table replicated successfully"
+ }
+]
